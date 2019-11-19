@@ -1,3 +1,5 @@
+
+# FORK OF DIGITALBAZAAR'S [CREDENTIAL HANDLER API](https://transmute-industries.github.io/credential-handler-polyfill)
 # Credential Handler API polyfill _(credential-handler-polyfill)_
 
 > [Credential Handler API](https://w3c-ccg.github.io/credential-handler-api/) (CHAPI) polyfill for browsers
@@ -69,7 +71,7 @@ web standards:
 
 ## Demo
 
-Visit https://digitalbazaar.github.io/credential-handler-polyfill/demo/ 
+Visit https://transmute-industries.github.io/credential-handler-polyfill/demo/
 for an idea of what the basic handler UI looks like.
 
 ## Usage
